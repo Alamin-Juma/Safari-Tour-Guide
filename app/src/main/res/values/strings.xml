@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Safaris Tours</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="national_parks">NationalParks</string>
+    <string name="hotels">Hotels</string>
+    <string name="beaches">Beaches</string>
+    <string name="culture">Culture</string>
+    <string name="dianiBeach">Diani Beach</string>
+    <string name="dianiBeachDescription">Kwale County, South coast</string>
+    <string name="kilifiBeach">Kilifi Beach</string>
+    <string name="kilifiBeachDescription">Kilifi County, Kilifi South</string>
+    <string name="lamuBeach">Lamu Beach</string>
+    <string name="lamuBeachDescription">Lamu County, Lamu North coast</string>
+    <string name="malindiBeach">Malindi Beach</string>
+    <string name="malindiBeachDescription">Kilifi County, Malindi North</string>
+    <string name="nyaliBeach">Nyali Beach</string>
+    <string name="nyaliBeachDescription">Mombasa County, Mombasa North coast</string>
+    <string name="shanzuBeach">Shanzu Beach</string>
+    <string name="shanzuBeachDescription">Mombasa County, Mombasa North coast</string>
+    <string name="shellyBeach">Shelly Beach</string>
+    <string name="shellyBeachDescription">Mombasa County, Likoni South coast</string>
+    <string name="tiwiBeach">Tiwi Beach</string>
+    <string name="tiwiBeachDescription">Kwale County, South coast</string>
+    <string name="watamuBeach">Watamu Beach</string>
+    <string name="watamuBeachDescription">Lamu County, Lamu North coast</string>
+    <string name="mijikenda">Mijikenda</string>
+    <string name="mijiendaDescription">Mijikenda are located in the  coast of Mombasa Kenya and
+        made up of upto 9 tribes. The nine Ethnic groups that make up the Mijikenda peoples are
+        the Chonyi, Kambe, Duruma, Kauma, Ribe, Rabai, Jibana, and Giriama. They are the northern
+        Mijikenda while the Digo are southern Mijikenda. </string>
+    <string name="masai">Masasi</string>
+    <string name="massasasiDescription">
+        The Maasai are an indigenous ethnic group in Africa of semi-nomadic people settled in Kenya
+        and northern Tanzania. Due to their distinct traditions, customs and dress and their residence near the many national game parks of East Africa, the Maasai are among the foremost African ethnic groups and are known internationally because of their links to the national parks and reserves.
+    </string>
+    <string name="kisii">Wakisii</string>
+    <string name="kisiiDescription">The Abagusii is an East African ethnic group that traditionally inhabit Kisii county and Nyamira county of Western Kenya. The Abagusii are also found in other regions of geographical Western Kenya. The Abagusii speak Ekegusii language which is
+        classified together with the Great Lakes Bantu languages</string>
+    <string name="somali">Somali</string>
+    <string name="somaliDescription">According to the most recent census, there are 2.4 million
+        Somalis in Kenya (out of an overall population of 38.6 million in the country).
+        Somalis have lived in Kenya since before colonial rule. By the early 20th century, Somali-speaking
+        nomads established themselves in what is now northeastern Kenya</string>
+    <string name="swahili">Swahili</string>
+    <string name="swahiliDescription">
+        Swahili (locally referred to as Kiswahili) is Kenya’s national language. Swahili originated on the East African coast,as a trade language used by both Arabs and coastal tribes.Popular
+        swahli are wagunya, shebe, shihiri
+    </string>
+    <string name="abaaluhya">Wabaluhya</string>
+    <string name="abaluhyaDescription">
+        The Luhya (also known as Abaluyia or Luyia)[2] are a group of 19 distinct Bantu tribes in
+        Kenya that lack a common origin and were politically united in the mid 20th century.[3] They number 6,823,842 people according to the 2019 census, being about 14.35% of Kenya total population of 47.6 million, and are the second-largest ethnic group in Kenya.
+    </string>
+    <string name="amboseliHotel">Amboseli Hotel</string>
+    <string name="amboseli">Aamboseli</string>
+    <string name="amaboseliPrice">$500/day</string>
+    <string name="ChyuyuHills">\"Chyuyu Hills \"</string>
+    <string name="makuendiCounty">\"Makueni County, \"</string>
+    <string name="ChyuyuPrice">$420/day</string>
+    <string name="dianiHotel">Diani Hotel</string>
+    <string name="kwaleCounty">Kwale County</string>
+    <string name="dianiHotelPrice">$100/night</string>
+    <string name="MandaBayHotel">MandaBay Beach</string>
+    <string name="mombasaCounty">Mombasasa County</string>
+    <string name="MandaBayHotelPrice">$1000/day</string>
+    <string name="MdoroniVilla">Mdoroni Villa Hotel</string>
+    <string name="mdoroniVillaPrice">$250/day</string>
+    <string name="mssambweniVilla">Msambweni Villa Hotel</string>
+    <string name="msambweniVillaPrice">$48/night</string>
+    <string name="whiteSandsHotel">\"White Sands Hotel \"</string>
+    <string name="whiteSandsHotelPrice">$1500/day</string>
+    <string name="PeponiHotel">Peponi Hotel</string>
+    <string name="AberdeNationalPark">Aberde National Park</string>
+    <string name="AberdaeParkDescription">Located on the slopes of the Aberdare Mountains</string>
+    <string name="AmboseliNationalPark">Amboseli National Park</string>
+    <string name="AmboseliNationalParkDescription">Located on the borders of Amboseli</string>
+    <string name="HelsGatePark">Hell\'s Gate National Park</string>
+    <string name="HelsGateParkDescription">\"Located on near Nairobi \"</string>
+    <string name="lakeNakuruPark">Lake Nakuru National Park</string>
+    <string name="lakeNakuruParkDescription">\"Located on the Lake Nakuru \"</string>
+    <string name="malindiMarinePark">Malindi Marine National Park</string>
+    <string name="malindiMarineParkDescription">\"Located on coast of Malindi \"</string>
+    <string name="mtKenyaPark">Mount Kenya National Park</string>
+    <string name="mtKenyaParkDdescription">\"Located on the Mount Kenya  \"</string>
+    <string name="NairobiNationalPark">Nairobi National Park</string>
+    <string name="NairobiNationalParkDescription">\"Located in Nairobi City \"</string>
+    <string name="SibiloiNationalPark">Sibiloi National Park</string>
+    <string name="SibiloiNationalParkDdescription">\"Located in the north of the country on the shores of Lake Turkana\"</string>
+    <string name="TsavoEastPark">Tsavo East National Park</string>
+    <string name="TsavoEastParkDescription">Located n Taru Desert , Taita taveta county</string>
+    <string name="MtLongonot">Mount Longonot National Park</string>
+    <string name="MtLongonotDescription">\"Located in  Naivasha in the Great Rift Valley of Kenya \"</string>
+    <string name="peponiHotelPrices">$254/day</string>
+</resources>

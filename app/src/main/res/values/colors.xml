@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  color of the app bar (shown in the app bar) -->
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="tabTextColor">#FF4500</color>
+    <color name="background">#00FFFF</color>
+    <color name="tabIndexColor">#00FFFF</color>
+    <color name="tabSelectedTextColor">@android:color/white</color>
+    <color name="tabIndicatorColor">@android:color/black</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#4A312A</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#2F1D1A</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF8DC</color>
+
+    <!-- Background color for the national Parks category -->
+    <color name="NationalParks_color">#00CED1</color>
+
+    <!-- Background color for the Beaches category -->
+    <color name="Beaches_color">#00BFFF</color>
+
+    <!-- Background color for the hotels category -->
+    <color name="Hotels_color">#1E90FF</color>
+
+    <!-- text color for the hotels prices category -->
+    <color name="colorPrices">@android:color/holo_orange_dark</color>
+
+</resources>
