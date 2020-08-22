@@ -31,4 +31,7 @@
     <!-- text color for the hotels prices category -->
     <color name="colorPrices">@android:color/holo_orange_dark</color>
 
+    <!-- background color for the listView item clicked -->
+    <color name="listItemClickedBackground">#FF4500</color>
+
 </resources>

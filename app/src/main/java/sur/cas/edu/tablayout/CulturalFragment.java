@@ -1,5 +1,6 @@
 package sur.cas.edu.tablayout;
 
+import android.content.Intent;
 import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.os.Bundle;
@@ -96,6 +97,38 @@ public class CulturalFragment extends Fragment {
         // Make the {@link ListView} use the {@link WordAdapter} we created above, so that the
         // {@link ListView} will display list items for each {@link Word} in the list.
         listView.setAdapter(adapter);
+
+        // Set a click listener to open a view with data of the listView when the list item is
+        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                //Toast.makeText(getActivity(), "I am working", Toast.LENGTH_SHORT).show();
+
+                // Get the item of the given position the user clicked on
+                Places placeClicked = (Places) parent.getItemAtPosition(position);
+
+                //get the item from the list that is  clicked, name of place, description and image
+                String placeName = placeClicked.getPlace();
+                String description = placeClicked.getDescription();
+                int image = placeClicked.getmImageResourceId();
+
+                //create an intent object
+                Intent intent = new Intent(getActivity(), GetListInfo.class);
+                //use intent extra to get the image and its key to be used in GetListInfo activity
+                intent.putExtra("image", placeClicked.getmImageResourceId());
+
+                //use intent extra to get the text name and its key to be used in
+                // GetListInfo activity
+                intent.putExtra("name", placeName);
+
+                //use intent extra to get the text description and its key to be used in
+                // GetListInfo activity
+                intent.putExtra("description", description);
+
+                //start activity
+                startActivity(intent);
+            }
+        });
 
         return rootView;
     }
